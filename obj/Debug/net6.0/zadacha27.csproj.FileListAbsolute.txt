@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.AssemblyInfo.cs
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\bin\Debug\net6.0\zadacha27.exe
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\bin\Debug\net6.0\zadacha27.deps.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\bin\Debug\net6.0\zadacha27.runtimeconfig.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\bin\Debug\net6.0\zadacha27.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\bin\Debug\net6.0\zadacha27.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\refint\zadacha27.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\zadacha27.genruntimeconfig.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ4\zadacha27\obj\Debug\net6.0\ref\zadacha27.dll
